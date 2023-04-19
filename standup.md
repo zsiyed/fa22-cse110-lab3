@@ -1,9 +1,6 @@
 # Daily Standup 
 
-## Day of the Week, Date
-
-| **Participants** | [Team Member 1] | [Team Member 2] | [Team Member 3] |
-| --- | --- | --- | --- |
+Day of the Week, Date
 
 ## Agenda
 - [Agenda item 1]
@@ -14,7 +11,6 @@
 
 | **Team Member** | **Yesterday** | **Today** | **Obstacles** |
 | --- | --- | --- | --- |
-
 | [Team Member 1] | [Task or progress update] | [Task or plan for the day] | [Any obstacles or challenges] |
 | [Team Member 2] | [Task or progress update] | [Task or plan for the day] | [Any obstacles or challenges] |
 | [Team Member 3] | [Task or progress update] | [Task or plan for the day] | [Any obstacles or challenges] |

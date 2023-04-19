@@ -1,0 +1,72 @@
+/* adding color*/
+main {
+    color: hsl(199, 48%, 27%);
+  }
+
+
+body {
+    color: #121111;
+    background-color: #F2F2F2;
+    font-size: 16px; 
+    line-height: 0.25in;
+    padding: 2rem; 
+  }
+  
+     
+select {
+    margin: 30px 20px 10px;
+    padding: 10px 20px;
+    border: 5px solid black;
+
+    font-size: 100%; 
+    line-height: 1.5cm; 
+    padding: 1em; 
+}
+
+.Members_Present {
+    color: blue; 
+    text-decoration: underline;
+    text-align: left;
+
+    margin: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    padding: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 1px;
+}
+button:hover {
+    color: rgb(255, 255, 0);
+  }
+  
+h1,h2,h3 {
+    color: red;
+  }
+
+a[href="media/waiting-music-116216.mp3"] {
+    color: red;
+}
+.Members li {
+    font-size: 14px;
+}
+nav > ul {
+    list-style: none;
+}
+.Content p ~ p {
+    margin-top: 10px;
+}
+h2 + button {
+    margin-top: 20px;
+}
+select#content_selector {
+    width: 400px;
+}
+#visitor_type {
+    width: 150px;
+}
